@@ -1,0 +1,4 @@
+mode: server        # or 'client'
+host: 0.0.0.0
+port: 8080
+key: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef  # 64 hex chars (32 bytes)
